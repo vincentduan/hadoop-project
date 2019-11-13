@@ -1,6 +1,6 @@
 **/target/
 **/.idea/
-/hadoop-imooc/projectData/raw/trackinfo_20130721.data
+/hadoop-imooc/projectData/
 /hadoop-imooc/classes/*
 *.iml
 **.log
